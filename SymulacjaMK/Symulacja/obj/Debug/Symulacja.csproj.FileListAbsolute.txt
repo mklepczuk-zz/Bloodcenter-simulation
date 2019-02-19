@@ -1,0 +1,28 @@
+C:\Users\lukas\Downloads\SymulacjaMK\Symulacja\bin\Debug\Symulacja.exe.config
+C:\Users\lukas\Downloads\SymulacjaMK\Symulacja\bin\Debug\Symulacja.exe
+C:\Users\lukas\Downloads\SymulacjaMK\Symulacja\bin\Debug\Symulacja.pdb
+C:\Users\lukas\Downloads\SymulacjaMK\Symulacja\obj\Debug\Symulacja.csprojResolveAssemblyReference.cache
+C:\Users\lukas\Downloads\SymulacjaMK\Symulacja\obj\Debug\Symulacja.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Downloads\SymulacjaMK\Symulacja\obj\Debug\Symulacja.exe
+C:\Users\lukas\Downloads\SymulacjaMK\Symulacja\obj\Debug\Symulacja.pdb
+C:\Users\Tomek\Downloads\SymulacjaMK\Symulacja\bin\Debug\Symulacja.exe.config
+C:\Users\Tomek\Downloads\SymulacjaMK\Symulacja\bin\Debug\Symulacja.exe
+C:\Users\Tomek\Downloads\SymulacjaMK\Symulacja\bin\Debug\Symulacja.pdb
+C:\Users\Tomek\Downloads\SymulacjaMK\Symulacja\obj\Debug\Symulacja.csprojResolveAssemblyReference.cache
+C:\Users\Tomek\Downloads\SymulacjaMK\Symulacja\obj\Debug\Symulacja.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\Downloads\SymulacjaMK\Symulacja\obj\Debug\Symulacja.exe
+C:\Users\Tomek\Downloads\SymulacjaMK\Symulacja\obj\Debug\Symulacja.pdb
+D:\6_semestr\Symulacja cyfrowa\SymulacjaMK\Symulacja\bin\Debug\Symulacja.exe.config
+D:\6_semestr\Symulacja cyfrowa\SymulacjaMK\Symulacja\bin\Debug\Symulacja.exe
+D:\6_semestr\Symulacja cyfrowa\SymulacjaMK\Symulacja\bin\Debug\Symulacja.pdb
+D:\6_semestr\Symulacja cyfrowa\SymulacjaMK\Symulacja\obj\Debug\Symulacja.csprojResolveAssemblyReference.cache
+D:\6_semestr\Symulacja cyfrowa\SymulacjaMK\Symulacja\obj\Debug\Symulacja.csproj.CoreCompileInputs.cache
+D:\6_semestr\Symulacja cyfrowa\SymulacjaMK\Symulacja\obj\Debug\Symulacja.exe
+D:\6_semestr\Symulacja cyfrowa\SymulacjaMK\Symulacja\obj\Debug\Symulacja.pdb
+C:\Users\user\Downloads\SymulacjaMK\Symulacja\bin\Debug\Symulacja.exe.config
+C:\Users\user\Downloads\SymulacjaMK\Symulacja\bin\Debug\Symulacja.exe
+C:\Users\user\Downloads\SymulacjaMK\Symulacja\bin\Debug\Symulacja.pdb
+C:\Users\user\Downloads\SymulacjaMK\Symulacja\obj\Debug\Symulacja.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\SymulacjaMK\Symulacja\obj\Debug\Symulacja.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\SymulacjaMK\Symulacja\obj\Debug\Symulacja.exe
+C:\Users\user\Downloads\SymulacjaMK\Symulacja\obj\Debug\Symulacja.pdb
